@@ -31,7 +31,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Start Analysis
  <br>
 
-  <img src="images/Screenshot 2025-11-11 132342.png" />
+  <img src="images/Screenshot 2025-10-27 1.png" />
   <img src="images/Screenshot 2025-11-11 132745.png" />
   <img src="images/Screenshot 2025-11-11 132753.png" />
 <br>
@@ -93,6 +93,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
   - Once you have completed your investigation, close the case within Autopsy.
 - Archiving:
   - Ensure all data and reports are properly archived according to your organization's policies.
+
 
 
 

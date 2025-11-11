@@ -75,7 +75,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
  - After analyzing the data, click on Generate Report from the toolbar.
 
 <p align="center">
-     <img src="images/Screenshot 2025-10-27 205426.png" />
+     <img src="images/Screenshot 2025-11-11 134634.png" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 -  *Report*
 
 <br>
-<img src="images/Screenshot 2025-10-27 205438.png" />
+<img src="images/Screenshot 2025-11-11 134644.png.png" />
 <br>
 
 ### 7. Case Closure
@@ -93,6 +93,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
   - Once you have completed your investigation, close the case within Autopsy.
 - Archiving:
   - Ensure all data and reports are properly archived according to your organization's policies.
+
 
 
 
